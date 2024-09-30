@@ -1,3 +1,5 @@
+![Header](https://github.com/karuna207/karuna207/blob/main/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Karunanidhi Ayyamperumal</h1>
 <h3 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=I'm a passionate+developer;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" /></h3> 
 
